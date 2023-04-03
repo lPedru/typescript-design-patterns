@@ -1,0 +1,24 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -p ./src -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lPedru/typescript-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lPedru/typescript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/lPedru/typescript-design-patterns#readme",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
